@@ -1,0 +1,4 @@
+baseURL = 'https://ngc-aiot.github.io/'
+languageCode = 'en-us'
+title = "NGC-AIoT Platform"
+theme = "ananke"
