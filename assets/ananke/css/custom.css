@@ -1,0 +1,15 @@
+.custom-header {
+  background: none;
+  padding: 0;
+}
+
+.header-wrapper {
+  width: 100%;
+  overflow: hidden;
+}
+
+.header-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
