@@ -13,3 +13,11 @@
   height: auto;
   display: block;
 }
+
+main, .center, .mw8 {
+  max-width: 1400px !important;
+  width: 100%;
+  margin: 0 auto;
+  padding-left: 40px;
+  padding-right: 40px;
+}
